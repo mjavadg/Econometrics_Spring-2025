@@ -5,9 +5,9 @@ This repository includes Python tutorials and assignments to support the coursew
 
 ## Aiming to covering the following Topics:
 - OLS Regression Using Various Tools in Python
-- Maximum Liklihood Estimation
+- Maximum likelihood estimation
 - Instrumental Variable
-- TWo Stage Least Squares
+- Two Stage Least Squares
 
 
 ## Maintainer
